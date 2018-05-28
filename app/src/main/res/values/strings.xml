@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Study Helper</string>
+
+    <string name="lang_country">en-US</string>
+
+    <string name="hint_search">Type to search&#8230;</string>
+    <string name="hint_empty">(Empty)</string>
+    <string name="hint_del_note">Long click a note header to invoke Delete mode!</string>
+    <string name="hint_new_plain">Unidentified plain note item</string>
+    <string name="hint_new_todo">Unidentified to-do item</string>
+    <string name="hint_new_note">Unidentified note</string>
+    <string name="hint_set">Set</string>
+    <string name="hint_set_alarm_repeat">Repeating every</string>
+    <string name="hint_specialized">Specialized for Vietnamese students</string>
+
+    <string name="format_date">M/d/yyyy</string>
+
+    <string name="info_todo">unfinished to-do(s)</string>
+    <string name="info_0todo">No unfinished to-do</string>
+    <string name="info_plainNote">note(s)</string>
+    <string name="info_rem">notification reminder(s)</string>
+    <string name="info_img">embeded image(s)</string>
+    <string name="info_due">Dued on</string>
+    <string name="info_selected">Selected:</string>
+    <string name="info_year">year</string>
+    <string name="info_month">month</string>
+    <string name="info_day">day</string>
+    <string name="info_hour">hour</string>
+    <string name="info_min">minute</string>
+    <string name="info_week">week</string>
+
+    <string name="crit_new">Newest</string>
+    <string name="crit_old">Oldest</string>
+    <string name="crit_due">Dued earliest</string>
+    <string name="crit_todo">To finish</string>
+    <string name="crit_today">Dued today</string>
+    <string name="crit_plainOnly">Note only</string>
+    <string name="crit_all">All</string>
+
+    <string name="menu_all">Select all</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_confirm">Confirm</string>
+    <string name="menu_voice_input">Input using voice</string>
+    <string name="menu_add_rem">Add notification reminder</string>
+    <string name="menu_add_img">Embed image</string>
+    <string name="menu_add_plain">Add plain note item</string>
+    <string name="menu_add_todo">Add to-do item</string>
+
+    <string name="title_rem">Notification reminder(s)</string>
+    <string name="title_img">Embeded image(s)</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_note">Notebook</string>
+
+    <string name="title_feat_maps">Direction</string>
+    <string name="title_feat_note">Notebook</string>
+    <string name="title_about">About</string>
+
+    <string name="map_input_orgn">Please choose an origin!</string>
+    <string name="map_input_dest">Please input a destination!</string>
+    <string name="map_add_loc">Location bookmarked!</string>
+    <string name="map_input_locType">Please choose a location type!</string>
+    <string name="map_loc_available">Location already bookmarked</string>
+    <string name="map_hint_orgn">Choose an origin&#8230;</string>
+    <string name="map_hint_dest">Choose an dest&#8230;</string>
+
+    <string name="launch_add_profile">Add profile</string>
+    <string name="launch_add_succ">Add the new profile successfully!</string>
+    <string name="launch_add_fail">The profile name already exists!</string>
+
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.woxthebox.draglistview.swipe.ListSwipeItem xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:leftViewId="@+id/swipe_left"
+    app:rightViewId="@+id/swipe_right"
+    app:swipeViewId="@+id/llNoteItem">
+
+    <TextView
+        android:id="@+id/swipe_left"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignBottom="@+id/llNoteItem"
+        android:layout_alignTop="@+id/llNoteItem"
+        android:background="@color/colorAccent"
+        android:gravity="start|center_vertical"
+        android:text="@string/menu_delete"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/swipe_right"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignBottom="@+id/llNoteItem"
+        android:layout_alignTop="@+id/llNoteItem"
+        android:background="@color/colorPrimary"
+        android:gravity="end|center_vertical"
+        android:text="@string/menu_edit"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal"
+        android:id="@+id/llNoteItem">
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/chkNoteItemEdit"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginStart="5dp"
+            android:textSize="16sp"
+            android:id="@+id/txtNoteItemEdit"
+            android:textColor="@android:color/black"/>
+
+    </LinearLayout>
+
+</com.woxthebox.draglistview.swipe.ListSwipeItem>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "542267797215",
+    "firebase_url": "https://fir-demo-b34ca.firebaseio.com",
+    "project_id": "fir-demo-b34ca",
+    "storage_bucket": "fir-demo-b34ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542267797215:android:9d730ceb2206892e",
+        "android_client_info": {
+          "package_name": "com.example.lamlethanhthe.studyhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542267797215-4gjv4delphtmrjgis03t1th3i5e6k461.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lamlethanhthe.studyhelper",
+            "certificate_hash": "d9d674e44268072f9ea386443787a7dd5ef2997c"
+          }
+        },
+        {
+          "client_id": "542267797215-gsqnf46kg8c4r6e7o9q2t2g5thmtgt50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgyYd2anAbTRL1PJ4Vq0txe6Ex0sznFZ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542267797215-gsqnf46kg8c4r6e7o9q2t2g5thmtgt50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

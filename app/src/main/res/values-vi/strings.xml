@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Sổ Tay Học Tập</string>
+
+    <string name="lang_country">vi-VN</string>
+
+    <string name="hint_search">Nhập để tìm kiếm&#8230;</string>
+    <string name="hint_empty">(Rỗng)</string>
+    <string name="hint_del_note">Nhấn giữ tiêu đề của một ghi chép để vào chế độ Xoá!</string>
+    <string name="hint_new_plain">Ghi chú mới</string>
+    <string name="hint_new_todo">Việc cần làm mới</string>
+    <string name="hint_new_note">Ghi chép mới</string>
+    <string name="hint_set">Đặt</string>
+    <string name="hint_set_alarm_repeat">Lặp lại mỗi</string>
+    <string name="hint_specialized">Chỉ dành cho học sinh Việt Nam</string>
+
+    <string name="format_date">d/M/yyyy</string>
+
+    <string name="info_todo">việc chưa hoàn thành</string>
+    <string name="info_0todo">Không có việc cần làm</string>
+    <string name="info_plainNote">ghi chú</string>
+    <string name="info_rem">thông báo nhắc nhở</string>
+    <string name="info_img">hình lưu kèm</string>
+    <string name="info_due">Hạn:</string>
+    <string name="info_selected">Đã chọn:</string>
+    <string name="info_year">năm</string>
+    <string name="info_month">tháng</string>
+    <string name="info_day">ngày</string>
+    <string name="info_week">tuần</string>
+    <string name="info_hour">giờ</string>
+    <string name="info_min">phút</string>
+
+    <string name="crit_new">Mới</string>
+    <string name="crit_old">Cũ</string>
+    <string name="crit_due">Quan trọng</string>
+    <string name="crit_todo">Cần làm</string>
+    <string name="crit_today">Hạn hôm nay</string>
+    <string name="crit_plainOnly">Chỉ ghi chú</string>
+    <string name="crit_all">Tất cả</string>
+
+    <string name="menu_all">Chọn tất cả</string>
+    <string name="menu_delete">Xoá</string>
+    <string name="menu_edit">Sửa</string>
+    <string name="menu_confirm">Xác nhận</string>
+    <string name="menu_voice_input">Nhập bằng giọng nói</string>
+    <string name="menu_add_rem">Thêm thông báo nhắc nhở</string>
+    <string name="menu_add_img">Thêm hình lưu kèm</string>
+    <string name="menu_add_plain">Thêm ghi chú</string>
+    <string name="menu_add_todo">Thêm việc cần làm</string>
+
+    <string name="title_rem">Thông báo nhắc nhở</string>
+    <string name="title_img">Hình lưu kèm</string>
+
+    <string name="title_activity_maps">Bản Đồ</string>
+    <string name="title_activity_config">Thiết Lập</string>
+    <string name="title_activity_note">Sổ ghi chép</string>
+
+    <string name="title_feat_maps">Chỉ đường</string>
+    <string name="title_feat_note">Ghi chép</string>
+    <string name="title_about">Về phần mềm</string>
+
+    <string name="map_input_orgn">Vui lòng chọn nơi đi!</string>
+    <string name="map_input_dest">Vui lòng chọn nơi đến</string>
+    <string name="map_add_loc">Địa điểm đã được thêm vào danh sách!</string>
+    <string name="map_input_locType">Vui lòng chọn loại địa điểm</string>
+    <string name="map_loc_available">Đã có trong danh sách các địa điểm</string>
+    <string name="map_hint_orgn">Chọn nơi đi&#8230;</string>
+    <string name="map_hint_dest">Chọn nơi đến&#8230;</string>
+
+    <string name="launch_add_profile">Thêm hồ sơ</string>
+    <string name="launch_add_succ">Thêm hồ sơ thành công!</string>
+    <string name="launch_add_fail">Tên hồ sơ đã tồn tại</string>
+
+</resources>

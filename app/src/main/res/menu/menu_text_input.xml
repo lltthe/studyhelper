@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/menu_voice_input"
+        android:id="@+id/menuVoiceInput"
+        app:showAsAction="ifRoom"
+        android:icon="@mipmap/ic_record_voice_white_48dp"/>
+
+    <item
+        android:title="@string/menu_confirm"
+        android:id="@+id/menuConfirm"
+        android:icon="@mipmap/ic_check_white_48dp"
+        app:showAsAction="ifRoom" />
+</menu>

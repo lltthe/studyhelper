@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="@string/menu_add_rem"
+        android:id="@+id/menuAddRem"
+        android:icon="@mipmap/ic_add_alert_white_48dp"
+        app:showAsAction="always" />
+
+    <item
+        android:title="@string/menu_add_img"
+        android:id="@+id/menuAddImg"
+        android:icon="@mipmap/ic_add_a_photo_white_48dp"
+        app:showAsAction="always" />
+
+    <item
+        android:title="@string/menu_add_plain"
+        android:id="@+id/menuAddPlain"
+        android:icon="@mipmap/ic_library_add_white_48dp"
+        app:showAsAction="always" />
+
+    <item
+        android:title="@string/menu_add_todo"
+        android:id="@+id/menuAddTodo"
+        android:icon="@mipmap/ic_playlist_add_white_48dp"
+        app:showAsAction="always" />
+</menu>
